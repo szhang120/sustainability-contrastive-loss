@@ -1,1 +1,1 @@
-![Project Poster](poster.png)
+![Project Poster](contrastive_loss_poster.png)
