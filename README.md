@@ -1,1 +1,1 @@
-# sustainability-contrastive-loss
+![Project Poster](poster.png)
